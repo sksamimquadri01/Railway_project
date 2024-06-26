@@ -11,8 +11,8 @@ body{
     height: 100vh;
     background-image: url(photo1.jpg);
     background-size:cover;
-    background-size:100% auto;
-    background-size: 3re 25%;
+/*     background-size:100% auto;
+    background-size: 3re 25%; */
 }
 .from_contener{
     max-width: 800px;
